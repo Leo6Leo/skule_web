@@ -1,4 +1,4 @@
-# skule_web
+# skule_photography_web
 All updates and detailed description will be posted here!
 
 # Webmaster
