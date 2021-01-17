@@ -6,3 +6,6 @@ Leo and Jon
 
 # Important Note:
 Another repository has been created, please go to https://github.com/Leo6Leo/skule_website
+
+# URLs
+https://leo6leo.github.io/skule_web/web_template/
