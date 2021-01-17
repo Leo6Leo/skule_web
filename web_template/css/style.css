@@ -456,10 +456,10 @@ header .menu:hover > span{
 
 .page-view .project .text .see-more:after{
     content: '';
-    background: #8571ea;
+    background: #fcfcfc;
     width: 105%;
     left: -2px;
-    bottom: 3px;
+    bottom: -3px;
     height: 7px;
     position: absolute;
     z-index: -1;
