@@ -31,13 +31,13 @@ body{
 }
 
 .spinner-jumper-container .spinner-section .rotator {
-  border-top-color: #337ab7;
-  border-right-color: #337ab7;
+  border-top-color: #71bbfc;
+  border-right-color: #71bbfc;
 }
 
 .spinner-jumper-container .spinner-section .rotator {
-  border-top-color: #337ab7;
-  border-right-color: #337ab7;
+  border-top-color: #71bbfc;
+  border-right-color: #71bbfc;
 }
 
 .space30 { height:30px; }
@@ -325,7 +325,7 @@ header .menu span:nth-child(2){
 
 header .menu:hover > span{
   width: 100%;
-  background: #337ab7;
+  background: #71bbfc;
 }
 
 .page-view {
@@ -412,7 +412,7 @@ header .menu:hover > span{
   color: #fff;
   font-size: 13px;
   font-weight: 600;
-  background: #337ab7;
+  background: #71bbfc;
   padding: 4px 8px;
   border-radius: 3px;
 }
@@ -554,12 +554,12 @@ header .menu:hover > span{
 
 .slider-bottom .arrows .arrow.previous:hover{
   transform: translateX(-5px);
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 .slider-bottom .arrows .arrow.next:hover{
   transform: translateX(5px);
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 .slider-bottom .socials a{ 
@@ -574,7 +574,7 @@ header .menu:hover > span{
 }
 
 .slider-bottom .socials a:hover{
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 .right-menu{
@@ -651,7 +651,7 @@ header .menu:hover > span{
 }
 
 .page-menu ul li a:hover{
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 
@@ -677,7 +677,7 @@ header .menu:hover > span{
 }
 
 .subtext span{
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 .subtitle{
@@ -777,7 +777,7 @@ footer .copyright{
 
 
 footer .copyright span{
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 footer .social a{
@@ -796,7 +796,7 @@ footer .back-top{
 }
 
 footer .back-top:hover p, footer .back-top:hover i{
-  color: #337ab7;
+  color: #71bbfc;
   transition: all ease 0.5s;
   -webkit-transition: all ease 0.5s;
   -moz-transition: all ease 0.5s;
@@ -821,7 +821,7 @@ footer .back-top i{
 
 .social a:hover {
     display: inline-block;
-    color: #337ab7;
+    color: #71bbfc;
 }
 
 .social a:hover > i{
@@ -851,7 +851,7 @@ footer .back-top i{
 }
 
 .contact-btn:before{
-    background: #337ab7;
+    background: #71bbfc;
     content: '';
     position: absolute;
     left: 0;
@@ -861,7 +861,7 @@ footer .back-top i{
 }
 
 .contact-btn:hover{
-    color: #337ab7;
+    color: #71bbfc;
 }
 
 
@@ -1125,7 +1125,7 @@ svg #wheel {
     font-size: 45px;
     font-weight: 600;    
     line-height: 74px;  
-    color: #337ab7;
+    color: #71bbfc;
 }
 
 .next-link .next-title,
@@ -1189,7 +1189,7 @@ svg #wheel {
 }
 
 .categories ul li a:hover{
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 /*------------------------ All Projects ------------------------*/   
@@ -1211,7 +1211,7 @@ svg #wheel {
     color: #fff;
     font-size: 13px;
     font-weight: 600;
-    background: #337ab7;
+    background: #71bbfc;
     padding: 4px 8px;
     border-radius: 3px;
 }
@@ -1267,7 +1267,7 @@ svg #wheel {
 }
 
 .all-link:hover{
-  color: #337ab7;
+  color: #71bbfc;
 }
 
 /*------------------------ Mobile ------------------------*/   
