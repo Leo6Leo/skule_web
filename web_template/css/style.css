@@ -282,7 +282,7 @@ header{
   mask: url(../img/sprite-2.png);
   -webkit-mask-size: 1600% 100%;
   mask-size: 1600% 100%;
-  -webkit-animation: mask-play .5s steps(15) reverse;
+  -webkit-animation: mask-play .2s steps(15) reverse;
   animation: mask-play .5s steps(15) reverse;
 }
 
