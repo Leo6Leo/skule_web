@@ -245,6 +245,11 @@ function page_open() {
         },120);
 }
 
+document.getElementById("myButton").onclick = function () {
+    location.href = "https://jinshuju.net/f/hnylTK";
+};
+
+
 function pagemenu() {
 
     $('.menu').on('click', function() {
