@@ -269,21 +269,24 @@ header{
 }
 
 .page-loader.out {
-  -webkit-mask: url(../img/client-1.jpg);
-  mask: url(../img/client-1.jpg);
-  -webkit-mask-size: 1600% 100%;
-  mask-size: 1600% 100%;
-  -webkit-animation: mask-play .5s steps(15) forwards;
-  animation: mask-play .5s steps(15) forwards;
+  opacity: 0;
+  -webkit-transition: opacity .5s ease-in-out;
+  transition: opacity .5s ease-in-out;
+  -webkit-mask: none !important;
+  mask: none !important;
 }
 
 .page-loader.in {
-  -webkit-mask: url(../img/client-1.jpg);
-  mask: url(../img/client-1.jpg);
-  -webkit-mask-size: 1600% 100%;
-  mask-size: 1600% 100%;
-  -webkit-animation: mask-play .2s steps(15) reverse;
-  animation: mask-play .5s steps(15) reverse;
+  -webkit-mask: url(../img/sprite-right.png);
+  mask: url(../img/sprite-right.png);
+ -webkit-mask-size: 1280% 100%;
+ mask-size: 1280% 100%;
+ -webkit-animation: mask-play .8s steps(11) forwards;
+ animation: mask-play .8s steps(11) forwards;
+ background: #000;
+
+ 
+  
 }
 
 .page-loader.show{
@@ -513,8 +516,7 @@ header .menu:hover > span{
 }
 
 .page-view {
-  background: url(../img/client-1.jpg) no-repeat -9999px -9999px;   
-
+  background: black;
 }
 
 
