@@ -281,8 +281,8 @@ header{
   mask: url(../img/sprite-right.png);
  -webkit-mask-size: 1280% 100%;
  mask-size: 1280% 100%;
- -webkit-animation: mask-play .10s steps(11) forwards;
- animation: mask-play .10s steps(11) forwards;
+ -webkit-animation: mask-play .5s steps(11) forwards;
+ animation: mask-play .5s steps(11) forwards;
  background: #000;
 
  
